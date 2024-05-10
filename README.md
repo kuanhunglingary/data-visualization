@@ -1,6 +1,6 @@
 # Data Visaulization
 ### Boston Housing
-[Descriptive Statistics](./Boston_housing/BostonHousing.ipynb)
+[Descriptive Statistics](./Boston_housing/BostonHousing.ipynb) 
 [Heatmap](./Boston_housing/BostonHousingHeatmap.ipynb)
 
 ### Stock Visualization
